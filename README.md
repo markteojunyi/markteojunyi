@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markteojunyi
-- 👀 I’m interested in product management and cloud infra
-- 🌱 I’m currently learning how to become a better product manager
+- 👀 I’m interested in product management, cloud infra and innovation
+- 🌱 I’m currently learning everything about software engineering and AI
 - 📫 You can reach me at markteojunyi@gmail.com
 
 <!---
