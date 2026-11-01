@@ -43,4 +43,4 @@ A five-agent AI travel planner (LangGraph + OpenAI) running in production on Goo
 
 ### 📫 Connect
 
-markteojunyi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/markteojunyi/) · markteojunyi@gmail.com
