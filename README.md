@@ -16,10 +16,11 @@ A five-agent AI travel planner (LangGraph + OpenAI) running in production on Goo
 
 *Team CI at release: 1,247 automated tests, SonarCloud quality gate passed (A/A/A), 80% coverage.*
 
-### 🛠️ What I've built
+### 🛠️ Projects
 
 | Project | The problem it solves | Built with |
 |---|---|---|
+| [**family-scheduler-bot**](https://github.com/markteojunyi/family-scheduler-bot) | School schedule changes arriving as app notifications with no export, then living in someone's memory. A Telegram bot that turns a message or a screenshot into the right calendar entry, and asks a human before every write. Ran 24/7 for my household; 793 tests. | Python, OpenAI, Telegram Bot API, Google Calendar API, SQLite, GCP |
 | [**fever-tracker**](https://github.com/markteojunyi/fever-tracker) | Parents juggling a sick child's temperature readings and medicine doses on scraps of paper. A full web app with login, tests and automated security scanning in CI. | Next.js, TypeScript, MongoDB, Vitest, OWASP ZAP |
 | [**youtube-digest**](https://github.com/markteojunyi/youtube-digest) | Losing 30 minutes a day skimming YouTube. Summarises new videos from chosen channels into a 60-second executive email each morning. | Python, Claude API, YouTube API, GitHub Actions |
 | [**ai-news-newsletter-agent**](https://github.com/markteojunyi/ai-news-newsletter-agent) | AI news written for engineers, not leaders. Picks the top 5 stories daily and frames each as *"what this means for you"*. | Python, Claude API, RSS, SQLite, GitHub Actions |
